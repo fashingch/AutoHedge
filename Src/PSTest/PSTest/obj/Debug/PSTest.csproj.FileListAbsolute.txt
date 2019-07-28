@@ -1,0 +1,10 @@
+C:\Users\johnson\source\repos\PSTest\PSTest\bin\Debug\PSTest.exe.config
+C:\Users\johnson\source\repos\PSTest\PSTest\bin\Debug\PSTest.exe
+C:\Users\johnson\source\repos\PSTest\PSTest\bin\Debug\PSTest.pdb
+C:\Users\johnson\source\repos\PSTest\PSTest\obj\Debug\PSTest.csprojAssemblyReference.cache
+C:\Users\johnson\source\repos\PSTest\PSTest\obj\Debug\PSTest.Properties.Resources.resources
+C:\Users\johnson\source\repos\PSTest\PSTest\obj\Debug\PSTest.csproj.GenerateResource.cache
+C:\Users\johnson\source\repos\PSTest\PSTest\obj\Debug\PSTest.csproj.CoreCompileInputs.cache
+C:\Users\johnson\source\repos\PSTest\PSTest\obj\Debug\PSTest.exe
+C:\Users\johnson\source\repos\PSTest\PSTest\obj\Debug\PSTest.pdb
+C:\Users\johnson\source\repos\PSTest\PSTest\obj\Debug\PSTest.Form1.resources
